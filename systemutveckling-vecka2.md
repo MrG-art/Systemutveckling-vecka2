@@ -16,6 +16,8 @@ En flexibel plan innebär att man kan ändra saker under arbetets gång, till ex
 
 Man upprepar processen flera gånger: man bygger, testar, ändrar och förbättrar steg för steg. Detta gör att användare och utvecklare kan samarbeta nära med varandra och justera funktionerna under tiden. Resultatet blir att man får en enkel version av appen snabbt, som sedan utvecklas vidare bit för bit. På så sätt blir slutprodukten mer anpassad efter vad användare faktiskt behöver, även om man inte har lika mycket detaljerad dokumentation som i Vattenfallsmetoden.
 
+(Denna text la jag till i branchen Agile-Vattenfall)
+
 ## Fråga 2: Vad är ett Git-commit och varför är det viktigt?
 
 När det gäller ett Git commit så kan man säga att det är som att spara en version av sitt arbete. När man gör ett commit sparas alla de ändringar man har gjort tillsammans med ett kort meddelande där man skriver vad man har ändrat och så. Detta gör så att man alltid kan gå tillbaka till en tidigare version om något går fel och det gör också att man kan se vem som har ändrat vad i projektet. Det gör det enklare att vara flera personer som jobbar tillsammans och på samma sak utan att krocka. Ett exempel är om jag råkar ta bort en fil av misstag då kan jag gå tillbaka till ett tidigare commit och få tillbaka den filen igen.
