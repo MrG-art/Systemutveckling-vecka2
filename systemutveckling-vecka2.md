@@ -28,3 +28,6 @@ När det gäller ett Git commit så kan man säga att det är som att spara en v
 ## Fråga 3: Vad innebär samarbete med GitHub? Vad är pull requests, branches och merge?
 
 När man samarbetar på GitHub kan flera personer arbeta på samma projekt utan att störa/förstöra varandras arbete. Man skapar en branch för att jobba på en egen del av projektet utan att röra main delen (Huvuddelen). När man är klar med sina ändringar så öppnar man en pull request, vilket betyder att man föreslår att ändringarna man har gjort ska läggas in i main såkallade huvuddelen då. Andra kan då läsa igenom, kommentera och sedan godkänna ändringarna. När alla är överens gör man en merge, alltså att man slår ihop branchen (mina ändringar) med main (Huvuddelen). På det här sättet kan flera personer jobba samtidigt, granska varandras arbete och hålla ordning på ändringarna i projektet utan att störa varnadras arbete.
+
+(Denna rad lades till i branchen Q3-Samarbete)
+
